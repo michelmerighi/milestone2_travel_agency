@@ -61,5 +61,9 @@ Content
 The text for section Y was copied from the Wikipedia article Z
 Media
 The photos used in this site were obtained from ...
+
+Background Image from http://starkovtattoo.spb.ru/images/600/DSC100649478.jpg
+
+
 Acknowledgements
 I received inspiration for this project from X
